@@ -13,5 +13,17 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+a{
+  font-size: 14px;
+}
+p{
+  font-size: 14px;
+}
+
+/* headr part  */
+
+.header-top{
+  background: lightblue ;
+}
 
 
